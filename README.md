@@ -1,0 +1,2 @@
+# python_django_project
+django_project
